@@ -1,2 +1,2 @@
 # Garbage
-This is a garbage repository !!!
+This is a garbage repository !
